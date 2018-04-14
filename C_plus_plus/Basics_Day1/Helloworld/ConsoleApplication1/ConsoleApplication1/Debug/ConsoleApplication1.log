@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+d:\git c\c_plus_plus\basics_day1\helloworld\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
